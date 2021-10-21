@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GuessGame</string>
+    <string name="bjugar">Jugar</string>
+    <string name="bsalir">Salir</string>
+    <string name="jugador1"></string>
+    <string name="jugador2"></string>
+    <string name="jugador3"></string>
+    <string name="jugador4"></string>
+    <string name="jugador5"></string>
+    <string name="jugador6"></string>
+    <string name="baceptar">Aceptar</string>
+    <string name="turno">Turno de :</string>
+    <string name="jturno"> </string>
+    <string name="bsiguiente">Siguiente</string>
+    <string name="eligio">Eligio A</string>
+    <string name="Instrucciones">Instrucciones</string>
+    <string name="Rules">6 jugadores reciben 1 entre 9 figuras, de 3 formas y 3 colores distintos, y 3 vidas, se selecciona un jugador al azar para empezar la partida, este debera elegir entre los otros 5 oponentes e intentar descifrar cuales figuras fueron otorgadas a los otros jugadores, y de esta forma eliminarlos, !pero cuidado!, si no acierta perdera una vida. Por otra parte, si adivina tan solo el color o la forma, el juego les avisara a todos los jugadores, pero de igual manera perdera una vida. El ganador es el último jugador en pie  </string>
+
+
+</resources>
